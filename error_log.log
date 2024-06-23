@@ -1,0 +1,11 @@
+[19-Jun-2024 13:48:56 Etc/UTC] Session variables not set.
+[19-Jun-2024 13:58:21 Etc/UTC] PHP Warning:  Undefined array key "id_user" in /home/teammates/public_html/proji/register/rating.php on line 9
+[19-Jun-2024 13:59:30 Etc/UTC] PHP Warning:  Undefined array key "id_user" in /home/teammates/public_html/proji/register/rating.php on line 9
+[19-Jun-2024 14:32:45 Etc/UTC] SQLSTATE[HY093]: Invalid parameter number
+[19-Jun-2024 14:44:03 Etc/UTC] SQLSTATE[HY093]: Invalid parameter number
+[19-Jun-2024 14:49:19 Etc/UTC] SQLSTATE[HY093]: Invalid parameter number
+[19-Jun-2024 14:49:21 Etc/UTC] SQLSTATE[HY093]: Invalid parameter number
+[19-Jun-2024 14:52:09 Etc/UTC] SQLSTATE[HY093]: Invalid parameter number
+[19-Jun-2024 14:53:23 Etc/UTC] SQLSTATE[HY093]: Invalid parameter number
+[19-Jun-2024 14:53:30 Etc/UTC] SQLSTATE[HY093]: Invalid parameter number
+[19-Jun-2024 14:53:32 Etc/UTC] SQLSTATE[HY093]: Invalid parameter number
