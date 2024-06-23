@@ -1,0 +1,12 @@
+.bg1 {
+        background-color: #f00;
+    }
+
+    #if, #edit_if {
+        display: none;
+    }
+	.btn-custom {
+        background-color: #FF9138;
+        border-color: #FF9138;
+        color: #fff;
+    }
