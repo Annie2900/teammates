@@ -1,0 +1,104 @@
+body{
+  font-family: "Archivo Narrow", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+.brand {
+  color: #FF9138;
+}
+
+.border-hover {
+  border-top: 5px solid transparent;
+  transform: translateY(-4px);
+}
+
+.border-hover:hover {
+  border-top: 5px solid #ff9138;
+  transform: translateY(-4px);
+  color: white;
+}
+
+#sign-in {
+  background: #FF9138;
+  border-top-left-radius: 50px;
+  border-bottom-left-radius: 50px;
+}
+
+.navbar-toggler {
+  border: 3px solid #FF9138;
+}
+.nav-item{
+  font-family: "Archivo Narrow", sans-serif;
+  font-size: 20px;
+  font-style: normal;
+
+}
+.nav-link{
+  color: #FF9138;
+  letter-spacing: 8px;
+  font-weight: bold;
+}
+
+.letters{
+  color: #FF9138;
+  font-family: "Archivo Narrow", sans-serif;
+  font-size: 50px;
+}
+/*.navbar-toggler-icon {*/
+/*  background-image: url(../wallpaper.jpg);*/
+/*}*/
+
+.navbar-toggler:focus {
+  box-shadow: none;
+}
+
+#nav-length {
+  width: 90%;
+}
+
+@media screen and (max-width : 992px) {
+  #nav-length {
+    width: 100%;
+  }
+
+  .border-hover {
+    border-top: 0;
+  }
+
+  .border-hover:hover {
+    border-top: 0;
+  }
+
+  #sign-in {
+    border-radius: 50px;
+  }
+}
+
+/* body section */
+.icon-height {
+  height: 28px;
+  width: 28px;
+}
+
+.icon-container {
+  background: #FF9138;
+}
+
+.dark-background {
+  background: #2b3944;
+}
+#socialWrap {
+  border-radius: 0px 24px 24px 0px;
+}
+
+.desc{
+  letter-spacing: 3px;
+  font-weight: 5px;
+}
+.ml3 {
+  font-weight: 900;
+  font-size: 3.5em;
+}
+a{
+color: white;
+}

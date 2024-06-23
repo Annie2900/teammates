@@ -1,0 +1,72 @@
+    body {
+        color: #FF9138;
+        background-image: url('../images/wallpaper.jpg');
+        background-size: cover;
+        background-attachment: fixed;
+        margin: 0;
+        font-family: Arial, sans-serif;
+    }
+
+    .container {
+        margin-top: 30px;
+    }
+
+    .card {
+        margin-bottom: 20px;
+        border: none;
+        border-radius: 10px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    }
+
+    .card-header {
+        background-color: #FF9138; /* Narancssárga */
+        color: white;
+        border-top-left-radius: 10px;
+        border-top-right-radius: 10px;
+    }
+
+    .card-body {
+        background-color: #ffffff; /* Fehér */
+    }
+
+    .card-footer {
+        background-color: #343a40;
+        color: white;
+        border-bottom-left-radius: 10px;
+        border-bottom-right-radius: 10px;
+    }
+
+    .btn-custom {
+        background-color: #FF9138; /* Narancssárga */
+        color: white;
+        border: none;
+        border-radius: 5px;
+        padding: 10px 20px;
+    }
+
+    .btn-custom:hover {
+        background-color: #FF8000; /* Sötétebb narancssárga hover állapotban */
+    }
+
+    h2 {
+        background-color: rgba(0, 0, 0, 0.2); /* Halvány fekete, 20%-os átlátszóság */
+        color: #FF9138; /* Fehér szöveg */
+        padding: 10px; /* Belső tér minden oldalon */
+        border-radius: 5px; /* Kerekített sarkok */
+        margin-top: 20px; /* Felső margó */
+        display: inline-block; /* A háttér mérete legyen az írásméret */
+    }
+
+    .comment-box {
+        width: 100%;
+        height: 60px; /* Méret csökkentése */
+    }
+    #comments {
+        width: 100%; /* Adjust width as needed */
+        max-width: 100%;
+        height: 80px; /* Adjust height as needed */
+        max-height: 150px; /* Adjust max-height if necessary */
+        resize: vertical; /* Allow vertical resizing */
+        padding: 8px; /* Adjust padding */
+        font-size: 14px; /* Adjust font size */
+    }

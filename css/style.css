@@ -1,0 +1,18 @@
+#forgetForm {
+    display: none;
+}
+
+.error {
+    color: #f00;
+    display: block;
+}
+
+.displayBadge {
+    margin-top: 5%;
+    display: none;
+    text-align: center;
+}
+
+#passwordEye {
+    cursor: pointer;
+}
